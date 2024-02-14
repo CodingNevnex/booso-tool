@@ -26,16 +26,3 @@ put your [CapMonster](https://capmonster.cloud) key in settings.json.
 ```json
     "Capmonster_apikey": "Put your capmonster api key here!"
 ```
-
-# CONTACT / HELP
-
-You can contact me from:
-Twitter: https://twitter.com/DorukUzgur
-Telegram: https://t.me/dorukuz
-ICQ: https://icq.im/Dorukuz
-
-Telegram Channel: https://t.me/AxiDevelopment
-# DISCLAIMER
-
-## This github repo is for EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS REPO.
-gecikfam
